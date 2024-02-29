@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Junichi Nagasawa
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Junichi Nagasawa
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junichi
+last_name: Nagasawa
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Contract Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Kwansei Gakuin University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Human-Computer Interaction, Security, eye tracking.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - Security
+  - Eye Tracking
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor in Maritime Sciences
+      institution: Kobe Universtiy (Japan) 
+      year: 2024
+    - course: BSc in Automation (Withdrew by COVID-19 border restrictions)
+      institution: Tsinghua University (China)
+      year: 2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,7 +54,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-line
@@ -70,19 +68,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: MMA
         description: ''
-        percent: 60
+        percent: 90
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Sailing
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Jazz Piano
         description: ''
-        percent: 80
+        percent: 70
         icon: camera-retro
         icon_pack: fas
 
@@ -105,7 +103,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jnagasawa
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+During my high school years, I was a member of the Japanese national sailing team. After graduating from high school, I moved to Beijing to study Chinese and then worked in legal translation at GLOBAL LAW OFFICE. In 2019, I was admitted to the Dept of Automation at Tsinghua University, but my visa was revoked due to COVID-19, and I transferred to Kobe University in Japan in 2022. At Kobe University, I was part of the Human Interface Lab, where I conducted research on eye movements. Starting in April 2024, I have been working as a contract researcher at Kwansei Gakuin University.
 {style="text-align: justify;"}
