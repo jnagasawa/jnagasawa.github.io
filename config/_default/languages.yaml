@@ -7,6 +7,9 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  # 以下付け足し
+  title: Junichi Nagasawa
+  weight: 1
 
 # Uncomment the lines below to configure your website in a second language.
 ja:
@@ -19,4 +22,4 @@ ja:
    main:
      - name: 传
        url: '#about'
-       weight: 1
+       weight: 2
