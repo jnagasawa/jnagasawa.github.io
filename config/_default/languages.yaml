@@ -17,10 +17,10 @@ ja:
  contentDir: content/ja
  weight: 2
  title: 長沢潤一
- params:
-   description: Site description in Japanese...
- menu:
-   main:
-     - name: 传
-       url: '#about'
-       weight: 1
+#  params:
+#    description: Site description in Japanese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
