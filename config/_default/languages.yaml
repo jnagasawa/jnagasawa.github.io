@@ -5,6 +5,7 @@
 # Default language
 en:
   languageCode: en-us
+  languageName: English
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
   weight: 1
@@ -12,6 +13,7 @@ en:
 # Uncomment the lines below to configure your website in a second language.
 ja:
  languageCode: ja
+ languageName: Japanese
  contentDir: content/ja
  weight: 2
  title: 長沢潤一
