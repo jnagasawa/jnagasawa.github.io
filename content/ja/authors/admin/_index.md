@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Junichi Nagasawa
+title: Home
 
 # Name pronunciation (optional)
 # name_pronunciation: Junichi Nagasawa
 
 # Full name (for SEO)
-first_name: Junichi
-last_name: Nagasawa
+first_name: 潤一
+last_name: 長沢
 
 # Status emoji
 status:
@@ -17,30 +17,30 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Contract Researcher
+role: 受託研究員
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Kwansei Gakuin University
-    url: https://global.kwansei.ac.jp/
+  - name: 関西学院大学
+    url: https://www.kwansei.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Computer Interaction, Security, eye tracking.
 
 # Interests to show in About widget
 interests:
-  - Human-Computer Interaction
-  - Security
-  - Eye Tracking
-  - Machine Learning
+  - ヒューマンコンピュータインタラクション
+  - セキュリティ
+  - アイトラッキング
+  - 機械学習
 
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor in Maritime Sciences
-      institution: Kobe Universtiy (Japan) 
+    - course: 海事科学部
+      institution: 神戸大学 (Japan) 
       year: 2024
-    - course: BSc in Automation (Withdrew by COVID-19 border restrictions)
+    - course: BSc in 自動化専攻 (自主退学)
       institution: Tsinghua University (China)
       year: 2022
 
@@ -51,34 +51,34 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 100
+        percent: 80
         icon: computer
         icon_pack: fas
-      - name: SQL
+      - name: ハッキング
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: MMA
+      - name: 総合格闘技
         description: ''
         percent: 90
         icon: hand-fist
         icon_pack: fas
-      - name: Sailing
+      - name: セーリング（ヨット）
         description: ''
         percent: 100
         icon: sailboat
         icon_pack: fas
-      - name: Jazz Piano
+      - name: ジャズピアノ
         description: ''
         percent: 70
         icon: music
@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-Hello there! I'm Junichi Nagasawa. After journeying across seas as a member of the Japanese national sailing team, I dove into the world of Chinese language and worked in legal translation at a law firm. I was studying Information Engineering and Electrical Engineering at Tsinghua University on a full scholarship when COVID-19 led me back home, prompting my transfer to Kobe University. There, I delved into machine learning research related to eye movements in Human Interface Lab. Currently, I'm embracing new challenges as a contract researcher at Kwansei Gakuin University.
+こんにちは！私は現在、関西学院大学工学部の受託研究員をしています。かつて高校時代は、セーリングのU-17日本代表として世界大会に2回出場しました。高校卒業後は中国に渡り、1年間の語学留学を経て法律事務所にて司法翻訳に携わりました。2019年の夏に文部科学省からの推薦で中国政府奨学金生として清華大学の自動化専攻に進学しましたが、コロナ禍の入国規制が長引いたため、2022年春に自主退学し神戸大学海事科学部に3年次編入しました。神戸大学ではヒューマンインタフェース研究室に所属し、長松隆教授の指導の下で視線に関する研究に従事しました。現在は視線から感情を推定する研究、及び視線から認知症を早期に検出する研究を行っています。
 
 
 {style="text-align: justify;"}

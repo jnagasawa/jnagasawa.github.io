@@ -51,17 +51,17 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 100
+        percent: 80
         icon: computer
         icon_pack: fas
-      - name: SQL
+      - name: Hacking
         description: ''
-        percent: 40
+        percent: 60
         icon: database
         icon_pack: fas
   - name: Hobbies

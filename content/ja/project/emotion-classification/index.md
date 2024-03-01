@@ -1,6 +1,6 @@
 ---
-title: Emotion Classification
-summary: Classify emotions from gaze with deep learning
+title: 感情推定
+summary: 機械学習を用いた視線からの感情推定
 tags:
   - Deep Learning
 date: '2023-04-01T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2023-04-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  # caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 # links:

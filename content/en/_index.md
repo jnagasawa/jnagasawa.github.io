@@ -69,7 +69,7 @@ sections:
           location: Tokyo, Japan
           date_start: '2023-08-01'
           date_end: ''
-          description: Maltego
+          description: Working on Maltego, an OSINT tool
 
         - title: Teaching Assistant
           company: Kobe University
@@ -88,14 +88,14 @@ sections:
           date_start: '2019-01-01'
           date_end: '2019-05-31'
           description: 
-        - title: Sailing Team Japan
+        - title: Sailing Team Japan (U-17)
           company: National Team
           company_url: ''
           company_logo: 
           location: Japan
           date_start: '2015-04-01'
           date_end: '2017-03-31'
-          description: 16th in the world (U-17)
+          description:
     design:
       columns: '2'
   # - block: accomplishments
@@ -184,8 +184,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Eye Tracking
+          tag: Eye Tracking
         - name: Other
           tag: Demo
     design:
@@ -247,8 +247,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: jnagasawa@acm.com
       # phone: 888 888 88 88
@@ -260,7 +260,7 @@ sections:
         postcode: '658-0022'
         country: Japan
         country_code: JP
-      directions: Human Interface Lab, Building 2, Kobe University
+      directions: Human Interface Lab, 3F, Building 2, Kobe University
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'

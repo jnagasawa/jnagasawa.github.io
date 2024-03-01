@@ -62,17 +62,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Contractor
-          company: Anchor Technologies, Inc.
+        - title: 業務委託契約
+          company: アンカーテクノロジーズ
           company_url: ''
           company_logo: 
           location: Tokyo, Japan
           date_start: '2023-08-01'
           date_end: ''
-          description: Maltego
+          description: 
 
-        - title: Teaching Assistant
-          company: Kobe University
+        - title: ティーチングアシスタント
+          company: 神戸大学
           company_url: ''
           company_logo: 
           location: Kobe, Japan
@@ -80,7 +80,7 @@ sections:
           date_end: '2024-03-31'
           description:
 
-        - title: Legal Translator
+        - title: 資本翻訳
           company: GLOBAL LAW OFFICE
           company_url: ''
           company_logo: 
@@ -88,14 +88,14 @@ sections:
           date_start: '2019-01-01'
           date_end: '2019-05-31'
           description: 
-        - title: Sailing Team Japan
-          company: National Team
+        - title: セーリング日本代表 (U-17)
+          company: セーリング連盟
           company_url: ''
           company_logo: 
           location: Japan
           date_start: '2015-04-01'
           date_end: '2017-03-31'
-          description: 16th in the world (U-17)
+          description: 
     design:
       columns: '2'
   # - block: accomplishments
@@ -184,10 +184,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Eye Tracking
+          tag: Eye Tracking
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -247,20 +247,20 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: jnagasawa@acm.com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 5-1-1 Fukaeminami-machi, Higashinada-ku
-        city: Kobe 
-        region: 
+        street: 東灘区深江南町5-1-1
+        city: 神戸市 
+        region: 兵庫県
         postcode: '658-0022'
-        country: Japan
+        country: 
         country_code: JP
-      directions: Human Interface Lab, Building 2, Kobe University
+      directions: 神戸大学深江キャンパス2号館3Fヒューマンインタフェース研究室
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
