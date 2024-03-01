@@ -6,8 +6,8 @@ title: 長沢潤一
 # name_pronunciation: Junichi Nagasawa
 
 # Full name (for SEO)
-first_name: 潤一
-last_name: 長沢
+first_name: Junichi
+last_name: Nagasawa
 
 # Status emoji
 status:
