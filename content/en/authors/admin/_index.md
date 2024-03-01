@@ -3,7 +3,7 @@
 title: Junichi Nagasawa
 
 # Name pronunciation (optional)
-name_pronunciation: Junichi Nagasawa
+# name_pronunciation: Junichi Nagasawa
 
 # Full name (for SEO)
 first_name: Junichi
@@ -118,5 +118,7 @@ social:
 highlight_name: true
 ---
 
-During my high school years, I was a member of the Japanese national sailing team. After graduating from high school, I moved to Beijing to study Chinese and then worked in legal translation at GLOBAL LAW OFFICE. In 2019, I was admitted to the Dept of Automation at Tsinghua University, but my visa was revoked due to COVID-19, and I transferred to Kobe University in Japan in 2022. At Kobe University, I was part of the Human Interface Lab, where I conducted research on eye movements. Starting in April 2024, I have been working as a contract researcher at Kwansei Gakuin University.
+Hello there! I'm Junichi Nagasawa. After journeying across seas as a member of the Japanese national sailing team, I dove into the world of Chinese language and worked in legal translation at a law firm. I was studying Information Engineering and Electrical Engineering at Tsinghua University on a full scholarship when COVID-19 led me back home, prompting my transfer to Kobe University. There, I delved into machine learning research related to eye movements in Human Interface Lab. Currently, I'm embracing new challenges as a contract researcher at Kwansei Gakuin University.
+
+
 {style="text-align: justify;"}
