@@ -74,7 +74,7 @@ sections:
         - title: Teaching Assistant
           company: Kobe University
           company_url: ''
-          company_logo: kobe.png
+          company_logo: 
           location: Kobe, Japan
           date_start: '2023-04-01'
           date_end: '2024-03-31'
@@ -83,7 +83,7 @@ sections:
         - title: Legal Translator
           company: GLOBAL LAW OFFICE
           company_url: ''
-          company_logo: glo.png
+          company_logo: 
           location: Beijing, China
           date_start: '2019-01-01'
           date_end: '2019-05-31'
