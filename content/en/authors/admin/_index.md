@@ -62,7 +62,7 @@ skills:
       - name: Hacking
         description: ''
         percent: 60
-        icon: database
+        icon: network-wired
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'

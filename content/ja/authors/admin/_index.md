@@ -29,7 +29,7 @@ bio: My research interests include Human-Computer Interaction, Security, eye tra
 
 # Interests to show in About widget
 interests:
-  - ヒューマンコンピュータインタラクション
+  - HCI
   - セキュリティ
   - アイトラッキング
   - 機械学習
@@ -62,7 +62,7 @@ skills:
       - name: ハッキング
         description: ''
         percent: 60
-        icon: database
+        icon: network-wired
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
