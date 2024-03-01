@@ -9,6 +9,7 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
   weight: 1
+  title: Junichi Nagasawa
 
 # Uncomment the lines below to configure your website in a second language.
 ja:
