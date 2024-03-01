@@ -9,6 +9,6 @@ date: "2023-11-10T00:00:00Z"
 # external_link: https://example.org
 
 image:
-  # caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Robina Weermeijer on Unsplash
   focal_point: Smart
 ---
