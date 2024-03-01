@@ -2,7 +2,7 @@
 title: 認知症
 summary: 視線からのアルツハイマー型認知症の早期検出
 tags:
-  - Deep Learning
+  - Eye Tracking
 date: "2023-11-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

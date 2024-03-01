@@ -2,7 +2,7 @@
 title: Emotion Classification
 summary: Classify emotions from gaze with deep learning
 tags:
-  - Deep Learning
+  - Eye Tracking
 date: '2023-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
