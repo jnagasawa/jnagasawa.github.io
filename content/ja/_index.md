@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Home'
 date: 2022-10-24
 type: landing
 
@@ -80,7 +80,7 @@ sections:
           date_end: '2024-03-31'
           description:
 
-        - title: 資本翻訳
+        - title: 司法翻訳
           company: GLOBAL LAW OFFICE
           company_url: ''
           company_logo: 

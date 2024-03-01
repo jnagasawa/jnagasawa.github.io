@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Home
+title: 長沢潤一
 
 # Name pronunciation (optional)
 # name_pronunciation: Junichi Nagasawa
