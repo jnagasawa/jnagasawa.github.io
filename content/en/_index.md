@@ -68,7 +68,7 @@ sections:
           company_logo: 
           location: Tokyo, Japan
           date_start: '2023-08-01'
-          date_end: 'present'
+          date_end: ''
           description: Maltego
 
         - title: Teaching Assistant
