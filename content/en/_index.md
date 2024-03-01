@@ -91,11 +91,11 @@ sections:
         - title: Sailing Team Japan
           company: National Team
           company_url: ''
-          company_logo: jsaf_main_logo
+          company_logo: 
           location: Japan
           date_start: '2015-04-01'
           date_end: '2017-03-31'
-          description: Participated in World Championships twice, achieving the best score of 16th place in the U-17 category.
+          description: 16th in the world (U-17)
     design:
       columns: '2'
   # - block: accomplishments
@@ -284,13 +284,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---

@@ -57,7 +57,7 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: chart-line
+        icon: computer
         icon_pack: fas
       - name: SQL
         description: ''
@@ -71,17 +71,17 @@ skills:
       - name: MMA
         description: ''
         percent: 90
-        icon: person-hiking
+        icon: hand-fist
         icon_pack: fas
       - name: Sailing
         description: ''
         percent: 100
-        icon: cat
+        icon: sailboat
         icon_pack: fas
       - name: Jazz Piano
         description: ''
         percent: 70
-        icon: camera-retro
+        icon: music
         icon_pack: fas
 
 # Social/Academic Networking
