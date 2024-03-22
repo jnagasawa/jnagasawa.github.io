@@ -118,7 +118,9 @@ social:
 highlight_name: true
 ---
 
-Hello there! I'm Junichi Nagasawa. After journeying across seas as a member of the Japanese national sailing team, I dove into the world of Chinese language and worked in legal translation at a law firm. I was studying Information Engineering and Electrical Engineering at Tsinghua University on a full scholarship when COVID-19 led me back home, prompting my transfer to Kobe University. There, I delved into machine learning research related to eye movements in Human Interface Lab. Currently, I'm embracing new challenges as a contract researcher at Kwansei Gakuin University.
+<!-- Hello there! I'm Junichi Nagasawa. After journeying across seas as a member of the Japanese national sailing team, I dove into the world of Chinese language and worked in legal translation at a law firm. I was studying Information Engineering and Electrical Engineering at Tsinghua University on a full scholarship when COVID-19 led me back home, prompting my transfer to Kobe University. There, I delved into machine learning research related to eye movements in Human Interface Lab. Currently, I'm embracing new challenges as a contract researcher at Kwansei Gakuin University. -->
 
-
+As a contract researcher at the School of Engineering, Kwansei Gakuin University, I am using deep learning to estimate emotions and detect Alzheimer's disease through eye gaze. My goal is to identify latent human characteristics, emotions, and cognitive states.
+I was inspired to pursue this field while working under the guidance of Professor Takashi Nagamatsu at the Human Interface Laboratory of Kobe University, where I discovered the untapped value of eye gaze data and became fully immersed in my research. My research areas include Human-Computer Interaction (HCI) and Security.
+If you are interested in my research, please feel free to contact me.
 {style="text-align: justify;"}
