@@ -1,6 +1,6 @@
 ---
 title: 感情推定
-summary: 機械学習を用いた視線からの感情推定
+summary: 深層学習を用いた視線からの感情推定
 tags:
   - Eye Tracking
 date: '2023-04-01T00:00:00Z'
