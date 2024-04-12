@@ -1,5 +1,5 @@
 ---
-title: 'Attempts on detecting Alzheimer's disease by fine-tuning pre-trained model with Gaze Data'
+title: "Attempts on detecting Alzheimer's disease by fine-tuning pre-trained model with Gaze Data"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
