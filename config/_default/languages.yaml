@@ -12,12 +12,12 @@ en:
   title: Junichi Nagasawa
 
 # Uncomment the lines below to configure your website in a second language.
-ja:
- languageCode: ja
- languageName: Japanese
- contentDir: content/ja
- weight: 2
- title: 長沢潤一
+# ja:
+#  languageCode: ja
+#  languageName: Japanese
+#  contentDir: content/ja
+#  weight: 2
+#  title: 長沢潤一
 #  params:
 #    description: Site description in Japanese...
 #  menu:
