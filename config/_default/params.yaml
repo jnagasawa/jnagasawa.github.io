@@ -40,7 +40,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    show_translations: true
+    # show_translations: true
 
 # Site footer
 
