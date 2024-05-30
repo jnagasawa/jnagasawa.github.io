@@ -62,8 +62,8 @@ skills:
       - name: Deep Learning
         description: ''
         percent: 100
-        icon: brain-circuit
-        icon_pack: fal
+        icon: brain
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
