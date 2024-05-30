@@ -51,7 +51,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 90
+        percent: 100
         icon: python
         icon_pack: fab
       - name: C++
@@ -59,11 +59,11 @@ skills:
         percent: 80
         icon: computer
         icon_pack: fas
-      - name: Hacking
+      - name: Deep Learning
         description: ''
-        percent: 60
-        icon: network-wired
-        icon_pack: fas
+        percent: 100
+        icon: brain-circuit
+        icon_pack: fal
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
