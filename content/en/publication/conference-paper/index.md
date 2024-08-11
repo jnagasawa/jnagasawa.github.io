@@ -5,7 +5,7 @@ title: "Attempts on detecting Alzheimer's disease by fine-tuning pre-trained mod
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  # - "Junichi Nagasawa"
+  - admin
 
 
 # Author notes (optional)
