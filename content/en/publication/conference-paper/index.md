@@ -6,6 +6,8 @@ title: "Attempts on detecting Alzheimer's disease by fine-tuning pre-trained mod
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - "Yuichi Nakata"
+  - "Mamoru Hiroe"
 
 
 # Author notes (optional)
