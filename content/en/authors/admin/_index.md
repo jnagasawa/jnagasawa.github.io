@@ -92,9 +92,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+  - icon: twitter
+    icon_pack: fab
+    link: https://x.com/jun_cs_
   #   label: Follow me on Twitter
   #   display:
   #     header: false
