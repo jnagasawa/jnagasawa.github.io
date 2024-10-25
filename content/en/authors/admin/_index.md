@@ -23,6 +23,8 @@ role: Contract Researcher
 organizations:
   - name: Kwansei Gakuin University
     url: https://global.kwansei.ac.jp/
+  - name: LY Corporation (Yahoo! JAPAN)
+    url: https://research.lycorp.co.jp/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Computer Interaction, Security, eye tracking.
