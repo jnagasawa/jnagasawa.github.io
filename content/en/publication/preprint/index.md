@@ -1,7 +1,7 @@
 ---
 title: "Emotion Classification from Gaze Data Alone: A Deep Learning Approach without Pupil Diameter"
 authors:
-  ["Junichi Nagasawa", "Mamoru Hiroe", "Yuichi Nakata", "Yuji Maegawa, Junzo Kamahara, Naoki Hojo, Tetsuya Takiguchi, Saizo Aoyagi, Michiya Yamamoto, Takashi Nagamatsu"]
+  # ["Junichi Nagasawa", "Mamoru Hiroe", "Yuichi Nakata", "Yuji Maegawa, Junzo Kamahara, Naoki Hojo, Tetsuya Takiguchi, Saizo Aoyagi, Michiya Yamamoto, Takashi Nagamatsu"]
 # - admin
 # date: "2024-12-07T00:00:00Z"
 doi: ""
