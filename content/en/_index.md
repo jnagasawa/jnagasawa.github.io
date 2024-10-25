@@ -62,6 +62,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: LY Corporation (Yahoo! JAPAN)
+          company_url: ''
+          company_logo: 
+          location: Tokyo, Japan
+          date_start: '2024-11-01'
+          date_end: ''
+          description: 
+
         - title: Contract Researcher
           company: Kwansei Gakuin University
           company_url: ''
