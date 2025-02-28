@@ -39,6 +39,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: MSc Computer Science
+      institution: University of Stuttgart
+      year: 
     - course: Bachelor in Maritime Sciences
       institution: Kobe Universtiy (Japan) 
       year: 2024
