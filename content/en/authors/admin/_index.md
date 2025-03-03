@@ -41,7 +41,7 @@ education:
   courses:
     - course: MSc Computer Science
       institution: University of Stuttgart
-      year: 2027
+      year: 2027 (expected)
     - course: Bachelor in Maritime Sciences
       institution: Kobe Universtiy (Japan) 
       year: 2024
