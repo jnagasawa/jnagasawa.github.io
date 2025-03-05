@@ -89,14 +89,14 @@ sections:
           date_end: ''
           description: Working on Maltego, an OSINT tool
 
-        - title: Teaching Assistant
-          company: Kobe University
-          company_url: ''
-          company_logo: 
-          location: Kobe, Japan
-          date_start: '2023-04-01'
-          date_end: '2024-03-31'
-          description:
+        # - title: Teaching Assistant
+        #   company: Kobe University
+        #   company_url: ''
+        #   company_logo: 
+        #   location: Kobe, Japan
+        #   date_start: '2023-04-01'
+        #   date_end: '2024-03-31'
+        #   description:
 
         - title: Legal Translator
           company: GLOBAL LAW OFFICE
@@ -312,3 +312,8 @@ sections:
     design:
       columns: '2'
 ---
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/jnagasawa/30min?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
