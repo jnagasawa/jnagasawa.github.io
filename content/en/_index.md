@@ -270,7 +270,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jnagasawa@acm.org
       # phone: 888 888 88 88
-      # appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/jnagasawa/30min'
       address:
         street: 5-1-1 Fukaeminami-machi, Higashinada-ku
         city: Kobe 
