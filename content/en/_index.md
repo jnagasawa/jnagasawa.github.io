@@ -62,13 +62,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Intern
+        - title: 
           company: LY Corporation (Yahoo! JAPAN)
           company_url: ''
           company_logo: 
           location: Tokyo, Japan
-          date_start: '2024-11-01'
-          date_end: ''
+          date_start: '2024'
+          date_end: '2025'
           description: 
 
         - title: Contract Researcher
@@ -76,7 +76,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Sanda, Japan
-          date_start: '2024-04-01'
+          date_start: '2024'
           date_end: ''
           description: 
         
@@ -85,7 +85,7 @@ sections:
           company_url: ''
           company_logo: 
           location: Tokyo, Japan
-          date_start: '2023-08-01'
+          date_start: '2023'
           date_end: ''
           description: Working on Maltego, an OSINT tool
 
@@ -94,8 +94,8 @@ sections:
         #   company_url: ''
         #   company_logo: 
         #   location: Kobe, Japan
-        #   date_start: '2023-04-01'
-        #   date_end: '2024-03-31'
+        #   date_start: '2023'
+        #   date_end: '2024'
         #   description:
 
         - title: Legal Translator
@@ -103,16 +103,16 @@ sections:
           company_url: ''
           company_logo: 
           location: Beijing, China
-          date_start: '2019-01-01'
-          date_end: '2019-05-31'
+          date_start: '2018'
+          date_end: '2019'
           description: 
         - title: Sailing Team Japan (U-17)
           company: National Team
           company_url: ''
           company_logo: 
           location: Japan
-          date_start: '2015-04-01'
-          date_end: '2017-03-31'
+          date_start: '2015'
+          date_end: '2017'
           description:
     design:
       columns: '2'
