@@ -21,10 +21,12 @@ role: Contract Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: University of Stuttgart
+    url: https://www.uni-stuttgart.de/en/
   - name: Kwansei Gakuin University
     url: https://global.kwansei.ac.jp/
-  - name: LY Corporation (Yahoo! JAPAN)
-    url: https://research.lycorp.co.jp/en
+  # - name: LY Corporation (Yahoo! JAPAN)
+  #   url: https://research.lycorp.co.jp/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Computer Interaction, Security, eye tracking.
@@ -111,7 +113,7 @@ social:
   #   link: https://github.com/jnagasawa
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/junichi-nagasawa/
+    link: https://www.linkedin.com/in/jnagasawa/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.

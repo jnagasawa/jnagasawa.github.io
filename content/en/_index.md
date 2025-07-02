@@ -62,13 +62,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Assistant
+          company: Collaborative Artificial Intelligence
+          company_url: 'https://www.collaborative-ai.org/'
+          company_logo: 
+          location: Stuttgart, Germany
+          date_start: '2025-07-01'
+          date_end: ''
+          description: 
         - title: 
-          company: LY Corporation (Yahoo! JAPAN)
+          company: LY Research (Yahoo! JAPAN)
           company_url: ''
           company_logo: 
           location: Tokyo, Japan
           date_start: '2024-11-01'
-          date_end: ''
+          date_end: '2025-03-31'
           description: 
 
         - title: Contract Researcher
